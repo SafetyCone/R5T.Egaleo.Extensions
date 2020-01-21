@@ -3,7 +3,7 @@
 using R5T.Ostrogothia;
 
 
-namespace R5T.Egaleo.Extensions
+namespace R5T.Egaleo
 {
     public static class IOrganizationDirectoryNameConventionExtensions
     {
