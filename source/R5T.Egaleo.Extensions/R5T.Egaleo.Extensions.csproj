@@ -4,4 +4,8 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Egaleo.Base\source\R5T.Egaleo.Base\R5T.Egaleo.Base.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Ostrogothia\source\R5T.Ostrogothia\R5T.Ostrogothia.csproj" />
+  </ItemGroup>
 </Project>
